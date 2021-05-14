@@ -1,0 +1,23 @@
+{
+  "name": "run8886",
+  "version": "0.0.0",
+  "description": "Personal project for node and vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksm6983/run8886.git"
+  },
+  "keywords": [
+    "node",
+    "vue"
+  ],
+  "author": "sumin kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksm6983/run8886/issues"
+  },
+  "homepage": "https://github.com/ksm6983/run8886#readme"
+}
