@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/ksm6983/run8886/issues"
   },
-  "homepage": "https://github.com/ksm6983/run8886#readme"
+  "homepage": "https://github.com/ksm6983/run8886#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
 }
